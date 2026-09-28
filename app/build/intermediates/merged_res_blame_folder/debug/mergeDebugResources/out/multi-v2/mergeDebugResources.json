@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\acer\\Downloads\\PahlawanIndonesia_final\\PahlawanIndonesia\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,6,7,3,2,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "191,234,277,105,55,151",
+                        "endColumns": "42,42,39,45,49,39",
+                        "endOffsets": "229,272,312,146,100,186"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,98,141,181,227,277",
+                        "endColumns": "42,42,39,45,49,39",
+                        "endOffsets": "93,136,176,222,272,312"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\acer\\Downloads\\PahlawanIndonesia_final\\PahlawanIndonesia\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "317",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "717"
+                    }
+                }
+            ]
+        }
+    ]
+}

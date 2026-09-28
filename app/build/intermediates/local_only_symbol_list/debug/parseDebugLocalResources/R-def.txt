@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color abu_muda
+color abu_teks
+color hitam
+color merah_gelap
+color merah_indonesia
+color putih
+drawable ahmad_dahlan
+drawable ahmad_yani
+drawable bg_header
+drawable bg_image
+drawable bg_item
+drawable bg_search
+drawable bung_tomo
+drawable gatot_subroto
+drawable ki_hadjar_dewantara
+drawable mohammad_hatta
+drawable sudirman
+drawable sukarno
+drawable supomo
+id etSearch
+id imgPahlawan
+id listViewPahlawan
+id tvAsal
+id tvKeterangan
+id tvNama
+layout activity_main
+layout item_pahlawan
+style Theme.PahlawanIndonesia

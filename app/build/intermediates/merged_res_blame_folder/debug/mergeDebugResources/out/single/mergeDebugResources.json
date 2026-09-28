@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/layout_item_pahlawan.xml.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/layout/item_pahlawan.xml"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_sukarno.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/sukarno.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_ki_hadjar_dewantara.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/ki_hadjar_dewantara.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_bg_search.xml.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_bg_header.xml.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_mohammad_hatta.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/mohammad_hatta.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_sudirman.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/sudirman.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_bg_item.xml.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/bg_item.xml"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_ahmad_yani.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/ahmad_yani.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_ahmad_dahlan.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/ahmad_dahlan.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_bg_image.xml.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/bg_image.xml"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_supomo.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/supomo.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_bung_tomo.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/bung_tomo.png"
+    },
+    {
+        "merged": "com.herdiawan.f52124016.aplikasi_uts.app-debug-4:/drawable_gatot_subroto.png.flat",
+        "source": "com.herdiawan.f52124016.aplikasi_uts.app-main-6:/drawable/gatot_subroto.png"
+    }
+]

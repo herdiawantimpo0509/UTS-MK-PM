@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abu_muda">#F5F5F5</color>
+    <color name="abu_teks">#666666</color>
+    <color name="hitam">#222222</color>
+    <color name="merah_gelap">#8B0000</color>
+    <color name="merah_indonesia">#B71C1C</color>
+    <color name="putih">#FFFFFF</color>
+    <style name="Theme.PahlawanIndonesia" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#B71C1C</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:statusBarColor">#8B0000</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
